@@ -9,8 +9,7 @@ weather apps aren't entirely reliable. We think they are in dire need of TESTING
 
 # Instructions 
 
-* In a programming language of your choice, setup an automated browser testing framework (Webdriver-based preferably) and write a suite of tests for the [Dark Sky web application](https://forecast.io). Think about how you might scale this framework.
-
+* In a programming language of your choice, setup an automated browser testing framework (Webdriver-based preferably) and write a suite of tests for the [Dark Sky web application](https://forecast.io). Think about how you might increase test coverage for this framework, while minimizing maintenance costs.
 
 * Try not to spend more than 2 hours on this challenge, and do not publish it to public Github.
 
