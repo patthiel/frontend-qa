@@ -13,8 +13,8 @@ weather apps aren't entirely reliable. We think they are in dire need of TESTING
 
 * Try not to spend more than 2 hours on this challenge, and do not publish it to public Github.
 
-* You *must* provide a dockerfile, script or written instructions on how to run your test suite.
+* You **must** provide a dockerfile, script or written instructions on how to run your test suite.
 
-* The test suite **must** executable on mac & pc
+* The test suite **must** be executable on **mac** & **pc**
 
 * When you have completed the challenge, Submit your project in a zip file attachment to kwilson@linode.com. 
